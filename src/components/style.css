@@ -1,0 +1,8 @@
+.vidoe-title {
+  font-size: 15px !important;
+}
+
+.side-video:hover {
+  background: tomato;
+  color: white;
+}
